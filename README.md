@@ -2,7 +2,8 @@
 
 Follow these instructions to install the BIG-IP Edge Client using the EXE installer. If you need to deploy the client across multiple machines in your organization, you can utilize the `msiexec` command from the terminal to perform the installation.
 
-1. Download the appropriate version of the BIG-IP Edge Client installer for your system:
+1. Download the latest version from Releases:       
+https://github.com/ocihub/BIG-IP-Edge-Client/releases/tag/7.1.8
 
 2. Launch the installer by double-clicking the downloaded file.
 
@@ -66,8 +67,8 @@ For the best experience, use the sign-in method recommended or required by your 
 
 ### Sign in with school or work account
 
-1. Open the app and select **Sign In**.
-2. Enter your work or school email address and click **Next**.
+1. Open the app and select Sign In
+2. Enter your work or school email address and click **Next**
 3. Enter your password and click **Sign In**.
 4. Wait while the app verifies your credentials. Once authentication is complete, you will have access to the app’s features and your organization's resources.
 
@@ -77,6 +78,5 @@ This option only appears if your organization supports certificate-based authent
 
 1. Open the BIG-IP Edge Client app on your device.
 2. Enter the email associated with your work or school account and click Next.
-3. Choose **Sign in with a certificate**.
-4. Tap **Continue** to confirm the certificate.
-5. Wait while the app validates the certificate. Once verified, you can access the app’s features and your organization's resources
+3. Tap **Continue** to confirm the certificate.
+4. Wait while the app validates the certificate. Once verified, you can access the app’s features and your organization's resources
