@@ -76,7 +76,7 @@ For the best experience, use the sign-in method recommended or required by your 
 This option only appears if your organization supports certificate-based authentication and you have a valid certificate.
 
 1. Open the BIG-IP Edge Client app on your device.
-2. Enter the email associated with your work or school account and click **Next**.
+2. Enter the email associated with your work or school account and click Next.
 3. Choose **Sign in with a certificate**.
 4. Tap **Continue** to confirm the certificate.
-5. Wait while the app validates the certificate. Once verified, you can access the app’s features and your organization's resources.
+5. Wait while the app validates the certificate. Once verified, you can access the app’s features and your organization's resources
