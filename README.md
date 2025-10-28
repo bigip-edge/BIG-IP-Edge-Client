@@ -79,4 +79,3 @@ This option only appears if your organization supports certificate-based authent
 1. Open the BIG-IP Edge Client app on your device.
 2. Enter the email associated with your work or school account and click Next.
 3. Tap **Continue** to confirm the certificate.
-4. Wait while the app validates the certificate. Once verified, you can access the app’s features and your organization's resources
